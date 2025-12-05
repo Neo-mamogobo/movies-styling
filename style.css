@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(66, 201, 66);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+h1{
+    color: blue;
+}
+h3{
+    color: black;
+    border: 5px solid black;
+}
+p{
+    color: black;
+    font-weight: bolder;
+}
